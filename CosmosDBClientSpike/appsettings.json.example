@@ -1,0 +1,5 @@
+﻿{
+  "CosmosDBEndpointUri": "YOUR_COSMOSDB_ENDPOINT_HERE",
+  "CosmosDBPrimaryKey": "YOUR_COSMOSDB_PRIMARYKEY_HERE",
+  "CosmosDBDatabaseId": "leaderboard"
+}
